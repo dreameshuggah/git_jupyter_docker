@@ -1,10 +1,12 @@
 
 # from start
 git init
-git remote add origin https://github.com/dreameshuggah/git_jupyter_docker.git
-git fetch origin
-git branch -m main
 git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/dreameshuggah/git_jupyter_docker.git
+git push -u origin main
+
 git status
 git commit -m "first commit"
 git push -u origin main
