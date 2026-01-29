@@ -5,3 +5,11 @@ pandasql==0.7.3
 yfinance==0.2.54
 plotly.express
 #matplotlib==3.8.0
+scikit-learn
+xgboost
+statsmodels
+seaborn
+evidently
+python-louvain
+networkx
+pyvis               
