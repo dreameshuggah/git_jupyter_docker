@@ -16,6 +16,7 @@ pyvis
 gensim       
 spacy     
 pyspark
+fastapi
 #mysql-connector-python
 #sqlalchemy
 #PyMySQL
