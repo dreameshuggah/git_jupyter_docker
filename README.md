@@ -27,7 +27,7 @@ A quick and easy setup for running Jupyter notebooks in a Dockerized environment
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/nezhar/jupyter-docker-compose.git
+git clone https://github.com/dreameshuggah/git_jupyter_docker
 ```
 
 Navigate to the project root directory:
