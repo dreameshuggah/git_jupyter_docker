@@ -8,7 +8,7 @@ git commit -m "first commit"
 
 git branch -M main
 
-git remote set-url origin https://<token>@github.com/dreameshuggah/git_jupyter_docker.git
+git remote set-url origin https://github.com/dreameshuggah/git_jupyter_docker.git
 
 git push -u origin main
 
@@ -32,7 +32,7 @@ A quick and easy setup for running Jupyter notebooks in a Dockerized environment
 Clone this repository to your local machine:
 
 ```bash
-git clone https://<token>@github.com/dreameshuggah/git_jupyter_docker
+git clone https://github.com/dreameshuggah/git_jupyter_docker
 ```
 
 Navigate to the project root directory:
