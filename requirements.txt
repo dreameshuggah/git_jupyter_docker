@@ -17,6 +17,7 @@ gensim
 spacy     
 pyspark
 fastapi
+duckdb
 #mysql-connector-python
 #sqlalchemy
 #PyMySQL
